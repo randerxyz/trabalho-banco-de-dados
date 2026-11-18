@@ -1,0 +1,37 @@
+questão 01
+
+resposta: alternativa c
+
+a tabela não está na primeira forma normal porque possui vários produtos armazenados em uma mesma coluna. cada campo deve ter apenas um valor.
+
+questão 02
+
+resposta: alternativa d
+
+um sistema gerenciador de banco de dados permite controlar o acesso dos usuários, gerenciar transações, manter a integridade dos dados e relacionar diferentes tabelas.
+
+questão 03
+
+resposta: alternativa b
+
+o left join permite mostrar todos os clientes, inclusive aqueles que ainda não realizaram nenhum pedido.
+
+questão 04
+
+resposta: alternativa c
+
+a atomicidade garante que uma transação seja realizada por completo ou desfeita. assim, evita que apenas uma parte da transferência seja concluída.
+
+questão 05
+
+resposta: alternativa c
+
+as afirmativas i, ii, iii e iv estão corretas. índices ajudam a melhorar as consultas, views permitem visualizar dados, triggers executam ações automaticamente e bancos distribuídos armazenam dados em diferentes locais. a afirmativa v está incorreta.
+
+gabarito final
+
+01 - c
+02 - d
+03 - b
+04 - c
+05 - c
