@@ -1,0 +1,29 @@
+parte 2 – respostas das questões teóricas
+
+questão 01 – alternativa c
+
+a tabela não está na primeira forma normal (1fn), porque tem mais de um valor na mesma coluna. o certo é cada campo guardar apenas uma informação.
+
+questão 02 – alternativa d
+
+as afirmativas i, iii e iv estão certas. o sgdb ajuda a controlar quem acessa os dados, as transações e a organização das informações. mas ele não consegue evitar todos os problemas ou perdas de dados.
+
+questão 03 – alternativa b
+
+o left join mostra todos os clientes, até aqueles que ainda não fizeram nenhum pedido.
+
+questão 04 – alternativa c
+
+a atomicidade quer dizer que uma transação precisa acontecer por completo ou ser desfeita. por exemplo, em uma transferência, não pode sair dinheiro de uma conta sem entrar na outra.
+
+questão 05 – alternativa c
+
+as afirmativas i, ii, iii e iv estão certas. os índices ajudam a encontrar informações mais rápido, as views mostram os dados de uma forma organizada, as triggers executam ações automaticamente e os bancos distribuídos guardam dados em lugares diferentes. a afirmativa v está errada.
+
+gabarito final
+
+questão 01 – c
+questão 02 – d
+questão 03 – b
+questão 04 – c
+questão 05 – c
